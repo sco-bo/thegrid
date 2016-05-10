@@ -1,0 +1,26 @@
+
+
+body {
+	background: #000;
+
+}
+
+
+.square {
+	background-color: white;
+
+	display: table-cell;
+	
+	border: 1px solid black;
+	
+	width: 100vw;
+	height: 7.75vh;
+
+}
+
+
+.highlighted {
+	background-color: #0000FF;
+}
+
+
